@@ -15,10 +15,10 @@ Using this application is straight forward, everyone can use it. Functionality h
 
 
 # Technology Used
-Firebase
-Retrofit
-Room
-Viewpager
-Workmanager
-PushNotification
-Navigation
+- Firebase
+- Retrofit
+- Room
+- Viewpager
+- Workmanager
+- PushNotification
+- Navigation
