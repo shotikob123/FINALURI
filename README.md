@@ -2,11 +2,11 @@
 
 
 # Requirments
-An Android Phone
-Internet
-Fingers
-Eyes
-Knowledge of what does 7x6 equal
+- An Android Phone
+- Internet
+- Fingers
+- Eyes
+- Knowledge of what does 7x6 equal
 
 
 
